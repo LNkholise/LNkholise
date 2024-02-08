@@ -3,30 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LinkedIn Profile</title>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- Custom CSS -->
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    .profile-header {
-      background-color: #007bff;
-      color: #fff;
-      padding: 50px 0;
-    }
-    .profile-header h1 {
-      font-size: 36px;
-      font-weight: bold;
-    }
-    .profile-header p {
-      font-size: 18px;
-    }
-    .profile-section {
-      padding: 30px 0;
-    }
-  </style>
+  # LinkedIn Profile
+
+## Profile Header
+```css
+.profile-header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 50px 0;
+}
+.profile-header h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+.profile-header p {
+  font-size: 18px;
+}
+
 </head>
 <body>
 
