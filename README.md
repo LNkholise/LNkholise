@@ -6,64 +6,85 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- Custom CSS -->
-  # LinkedIn Profile
-
-## Profile Header
-```css
-.profile-header {
-  background-color: #007bff;
-  color: #fff;
-  padding: 50px 0;
-}
-.profile-header h1 {
-  font-size: 36px;
-  font-weight: bold;
-}
-.profile-header p {
-  font-size: 18px;
-}
-
 </head>
 <body>
 
 <!-- Profile Header -->
-<header class="profile-header text-center">
-  <div class="container">
-    <h1>Leonard Nkholise</h1>
-    <p>Background in Astrophysics with Programming Skills</p>
-  </div>
-</header>
+<div id="header" align="center">
+  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="600"/>
+</div>
 
 <!-- Profile Summary -->
 <section class="profile-section">
   <div class="container">
-    <h2>Profile Summary</h2>
-    <p>I am a passionate physicist with a strong background in programming. I have been programming since high school and am fluent in C++11/14, Python 3, JavaScript, HTML5, Bootstrap, and CSS3. I am dedicated to leveraging my skills to tackle complex challenges in the field of astrophysics, Machine Learning, computer vision and beyond.</p>
+    <h2>About Me: </h2>
+    <p>
+      Hey there! I'm Leonard, a physicist by day and a programming enthusiast by night.
+
+### What I Do:
+- 🌌 Unravel the mysteries of the universe
+- 💻 Tinker with electronics hardware
+- 🛠️ Bring ideas to life through coding
+
+### My Passion:
+- 🚀 Fascinated by the marriage of physics and technology
+- 💡 Love pushing the boundaries of what's possible
+- 🌟 Constantly seeking new ways to merge programming with curiosity
+
+### My Interests:
+- 🎨 Big fan of visiting art exhibitions and galleries
+- 🖼️ Draw inspiration from creativity and innovation of artists worldwide
+- 🌍 Always seeking new perspectives and ideas that challenge my own
+
+</p>
   </div>
 </section>
 
 <!-- Skills -->
 <section class="profile-section bg-light">
   <div class="container">
-    <h2>Skills</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <h3>Programming Languages</h3>
-        <ul>
-          <li>C++11/14</li>
-          <li>Python 3</li>
-          <li>JavaScript</li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <h3>Web Development</h3>
-        <ul>
-          <li>HTML5</li>
-          <li>Bootstrap</li>
-          <li>CSS3</li>
-        </ul>
-      </div>
-    </div>
+    <h2>Skills: </h2>
+    <p>
+
+### Programming Languages:
+<img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" width="40" height="40">
+<img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" width="40" height="40">
+<img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" width="40" height="40">
+
+### Web Development:
+<img src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" width="40" height="40">
+<img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" width="40" height="40">
+<img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" width="40" height="40">
+
+### Other Skills:
+<img src="https://github.com/github/explore/blob/main/topics/nvidia/nvidia.png?raw=true" width="40" height="40">
+<img src="https://github.com/github/explore/blob/main/topics/raspberry-pi/raspberry-pi.png?raw=true" width="40" height="40">
+<img src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+
+
+
+
+</p>
+  </div>
+</section>
+
+<!--Stats -->
+<section class="profile-section bg-light">
+  <div class="container">
+    <h2>My Stats: </h2>
+    <p>
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&layout=compact&theme=dark" alt="Top Languages" style="filter: invert(100%);">
+
+### Contributions and Projects
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=dark)
+![GitHub Projects](https://github-readme-stats.vercel.app/api?username=LNkholise&show_icons=true&count_private=true&theme=dark)
+
+</p>
   </div>
 </section>
 
@@ -72,9 +93,9 @@
   <div class="container">
     <h2>Contact Information</h2>
     <ul>
-      <li>Email: leonkholise@gmail.com</li>
-      <li>LinkedIn: <a href="#">linkedin.com/in/lekoro-leonard-nkholise</a></li>
-      <li>GitHub: <a href="#">github.com/LNkholisee</a></li>
+      <li>Email: www.leonkholise@gmail.com</li>
+      <li>LinkedIn: <a href="#">www.linkedin.com/in/lekoro-leonard-nkholise</a></li>
+      <li>GitHub: <a href="#">www.github.com/LNkholisee</a></li>
     </ul>
   </div>
 </section>
@@ -83,12 +104,6 @@
 <footer class="text-center bg-dark text-light py-4">
   <p>&copy; 2023 Leonard Nkholise</p>
 </footer>
-
-<!-- Bootstrap JS -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
 </body>
 </html>
 
