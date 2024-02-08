@@ -33,7 +33,7 @@
 <!-- Profile Header -->
 <header class="profile-header text-center">
   <div class="container">
-    <h1>John Doe</h1>
+    <h1>Leonard Nkholise/h1>
     <p>Background in Astrophysics with Programming Skills</p>
   </div>
 </header>
