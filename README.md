@@ -31,11 +31,6 @@
 - 💡 Love pushing the boundaries of what's possible
 - 🌟 Constantly seeking new ways to merge programming with curiosity
 
-### My Interests:
-- 🎨 Big fan of visiting art exhibitions and galleries
-- 🖼️ Draw inspiration from creativity and innovation of artists worldwide
-- 🌍 Always seeking new perspectives and ideas that challenge my own
-
 </p>
   </div>
 </section>
