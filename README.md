@@ -76,7 +76,7 @@
 
 ### Contributions and Projects
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=dark private=true&theme=dark)
 ![GitHub Projects](https://github-readme-stats.vercel.app/api?username=LNkholise&show_icons=true&count_private=true&theme=dark)
 
 </p>
