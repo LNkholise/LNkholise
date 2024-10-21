@@ -19,18 +19,20 @@
   <div class="container">
     <h2>About Me: </h2>
     <p>
-      Hey there! I'm Leonard, a physicist by day and a programming enthusiast by night.
+# Hey there! I'm Leonard
 
-### What I Do:
-- 🌌 Unravel the mysteries of the universe
-- 💻 Tinker with electronics hardware
-- 🛠️ Bring ideas to life through coding
+I'm a Python developer with a passion for solving complex problems across diverse fields.
 
-### My Passion:
-- 🚀 Fascinated by the marriage of physics and technology
-- 💡 Love pushing the boundaries of what's possible
-- 🌟 Constantly seeking new ways to merge programming with curiosity
+## What I Do:
+- 🔍 Develop innovative solutions using Python, with experience in algorithmic trading (web3.py) and web development (Django)
+- 🧪 Apply my background in computational physics to create research-based projects
+- 💻 Transform ideas into functional applications through coding
 
+## My Approach:
+- 🌟 Committed to continuous learning and improvement in my craft
+- 🤝 Enjoy collaborating with others to bring ideas to life
+- 🚀 Focused on creating impactful solutions that address real-world challenges
+- 
 </p>
   </div>
 </section>
@@ -77,7 +79,7 @@
 ### Contributions and Projects
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=dark)
-![GitHub Projects](https://github-readme-stats.vercel.app/api?username=LNkholise&show_icons=true&count_private=true&theme=dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LNkholise&show_icons=true)
 
 </p>
   </div>
