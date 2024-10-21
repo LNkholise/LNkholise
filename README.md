@@ -19,7 +19,7 @@
   <div class="container">
     <h2>About Me: </h2>
     <p>
-# Hey there! I'm Leonard
+Hey there! I'm Leonard
 
 I'm a Python developer with a passion for solving complex problems across diverse fields.
 
@@ -30,9 +30,7 @@ I'm a Python developer with a passion for solving complex problems across divers
 
 ## My Approach:
 - 🌟 Committed to continuous learning and improvement in my craft
-- 🤝 Enjoy collaborating with others to bring ideas to life
 - 🚀 Focused on creating impactful solutions that address real-world challenges
-- 
 </p>
   </div>
 </section>
@@ -79,7 +77,6 @@ I'm a Python developer with a passion for solving complex problems across divers
 ### Contributions and Projects
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=dark)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LNkholise&show_icons=true)
 
 </p>
   </div>
