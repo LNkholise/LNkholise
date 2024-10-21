@@ -9,11 +9,6 @@
 </head>
 <body>
 
-<!-- Profile Header -->
-<div id="header" align="center">
-  <img src="https://gifdb.com/gif/programming-coding-on-fire-9yx4zas99sntux0m.html?embed=true" width="600"/>
-</div>
-
 <!-- Profile Summary -->
 <section class="profile-section">
   <div class="container">
