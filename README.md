@@ -38,29 +38,6 @@ I'm a Python developer with a passion for solving complex problems across divers
 <!-- Skills -->
 <section class="profile-section bg-light">
   <div class="container">
-    <h2>Skills: </h2>
-    <p>
-
-### Programming Languages:
-<img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" width="40" height="40">
-<img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" width="40" height="40">
-<img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" width="40" height="40">
-
-### Web Development:
-<img src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" width="40" height="40">
-<img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" width="40" height="40">
-<img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" width="40" height="40">
-
-### Other Skills:
-<img src="https://github.com/github/explore/blob/main/topics/nvidia/nvidia.png?raw=true" width="40" height="40">
-<img src="https://github.com/github/explore/blob/main/topics/raspberry-pi/raspberry-pi.png?raw=true" width="40" height="40">
-<img src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-
-
-
-
-</p>
   </div>
 </section>
 
