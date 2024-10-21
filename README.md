@@ -11,7 +11,7 @@
 
 <!-- Profile Header -->
 <div id="header" align="center">
-  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="600"/>
+  <img src="https://gifdb.com/gif/programming-coding-on-fire-9yx4zas99sntux0m.html?embed=true" width="600"/>
 </div>
 
 <!-- Profile Summary -->
