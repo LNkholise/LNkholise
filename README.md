@@ -44,7 +44,7 @@ I'm a Python developer with a passion for solving complex problems across divers
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&layout=compact&theme=dark" alt="Top Languages" style="filter: invert(100%);">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&layout=compact&theme=dark&langs_count=10" alt="Top Languages" style="filter: invert(100%);">
 
 ### Contributions and Projects
 
