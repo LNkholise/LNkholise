@@ -14,7 +14,6 @@
   <div class="container">
     <h2>About Me: </h2>
     <p>
-### Hey there! I'm Leonard
 
 ### Hey there! I'm Leonard
 
