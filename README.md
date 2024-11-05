@@ -64,14 +64,13 @@ I am a dedicated full-stack Python developer and computational scientist focused
     <ul>
       <li>Email: www.leonkholise@gmail.com</li>
       <li>LinkedIn: <a href="#">www.linkedin.com/in/lekoro-leonard-nkholise</a></li>
-      <li>GitHub: <a href="#">www.github.com/LNkholisee</a></li>
     </ul>
   </div>
 </section>
 
 <!-- Footer -->
 <footer class="text-center bg-dark text-light py-4">
-  <p>&copy; 2023 Leonard Nkholise</p>
+  <p>&copy; 2024 Leonard Nkholise</p>
 </footer>
 </body>
 </html>
