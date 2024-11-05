@@ -14,18 +14,22 @@
   <div class="container">
     <h2>About Me: </h2>
     <p>
-Hey there! I'm Leonard
+### Hey there! I'm Leonard
 
-I'm a Python developer with a passion for solving complex problems across diverse fields.
+### Hey there! I'm Leonard
 
-## What I Do:
-- 🔍 Develop innovative solutions using Python, with experience in algorithmic trading (web3.py) and web development (Django)
-- 🧪 Apply my background in computational physics to create research-based projects
-- 💻 Transform ideas into functional applications through coding
+I am a dedicated full-stack Python developer and computational scientist focused on delivering innovative solutions in web development and data analytics to enhance business efficiency.
 
-## My Approach:
-- 🌟 Committed to continuous learning and improvement in my craft
-- 🚀 Focused on creating impactful solutions that address real-world challenges
+### What I Do:
+- 🔍 Develop advanced web3-based applications and computer vision solutions using Python and Django to meet specific needs.
+- 🧪 Apply my background in computational physics to create data-driven insights and drive impactful research projects.
+- 💻 Transform concepts into functional applications through expert coding, ensuring quality and scalability.
+
+### My Commitment:
+- 🌟 Committed to continuous learning to leverage the latest technologies and methodologies.
+- 🚀 Focused on delivering tailored solutions that solve real-world challenges and drive measurable business results.
+
+
 </p>
   </div>
 </section>
