@@ -45,9 +45,9 @@ I am a dedicated full-stack Python developer and computational scientist focused
     <h2>My Stats: </h2>
     <p>
 
-### Most Used Languages
+### Languages Used
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&layout=compact&theme=dark&langs_count=10" alt="Top Languages" style="filter: invert(100%);">
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&layout=compact&theme=dark&langs_count=10&card_title=Languages%20Used)
 
 ### Contributions and Projects
 
