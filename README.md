@@ -27,6 +27,29 @@ I am a dedicated full-stack Python developer and computational scientist focused
 ### My Commitment:
 - 🌟 Committed to continuous learning to leverage the latest technologies and methodologies.
 - 🚀 Focused on delivering tailored solutions that solve real-world challenges and drive measurable business results.
+  
+### Frameworks & Databases
+![Django](https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-008080?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-FF4500?style=for-the-badge&logo=Flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-20B2AA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+### Others
+![NVIDIA Jetson Nano](https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-32CD32?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF5722?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-4FCCF3?style=for-the-badge&logo=arduino&logoColor=white)
+
+
 
 
 </p>
