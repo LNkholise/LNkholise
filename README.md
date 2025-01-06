@@ -73,7 +73,7 @@ I am a dedicated full-stack Python developer and computational scientist focused
 
 ### Contributions and Projects
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=github-dark)
 
 </p>
   </div>
