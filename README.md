@@ -32,9 +32,9 @@ I am a dedicated full-stack Python developer and computational scientist focused
 ![Django](https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-008080?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-FF4500?style=for-the-badge&logo=Flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
@@ -69,11 +69,11 @@ I am a dedicated full-stack Python developer and computational scientist focused
 
 ### Languages Used
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&layout=compact&theme=dark&langs_count=10&card_title=Languages%20Used)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&theme=radical&hide_border=true)
 
 ### Contributions and Projects
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=radical&hide_border=true)
 
 </p>
   </div>
