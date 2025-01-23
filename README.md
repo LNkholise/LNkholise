@@ -71,9 +71,6 @@ I am a dedicated full-stack Python developer and computational scientist focused
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LNkholise&theme=radical&hide_border=true)
 
-### Contributions and Projects
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LNkholise&theme=radical&hide_border=true)
 
 </p>
   </div>
