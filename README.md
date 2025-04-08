@@ -17,7 +17,7 @@
 
 ### Hi There 👋
 
-I'm a full-stack Python web developer who specializes mostly in solving complex business and technical problems with innovative solutions.
+I'm a full-stack Python web developer who specializes mostly in solving complex business and technical problems with innovative solutions. My background is in computational physics (think astrophysics and astronomy) which taught me how to tackle challenging problems with data. I gravitated toward web development because it’s a powerful tool for solving real-world issues at scale. Plus, it doesn’t hurt that it pays pretty well! Now, I blend that problem-solving mindset with web technologies like Python (Django, Flask), Node.js and tensorflow to build solutions that actually make a difference for businesses.
 
 ### What I Do:
 
