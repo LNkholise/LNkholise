@@ -45,10 +45,8 @@ I'm a full-stack Python web developer who specializes mostly in solving complex 
 
 
 ### Others
-![NVIDIA Jetson Nano](https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-32CD32?style=for-the-badge&logo=nvidia&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF5722?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-4FCCF3?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 
@@ -84,14 +82,14 @@ I'm a full-stack Python web developer who specializes mostly in solving complex 
     <h2>Contact Information</h2>
     <ul>
       <li>Email: www.leonkholise@gmail.com</li>
-      <li>LinkedIn: <a href="#">www.linkedin.com/in/lekoro-leonard-nkholise</a></li>
+      <li>LinkedIn: <a href="www.linkedin.com/in/lekoro-leonard-nkholise">www.linkedin.com/in/lekoro-leonard-nkholise</a></li>
     </ul>
   </div>
 </section>
 
 <!-- Footer -->
 <footer class="text-center bg-dark text-light py-4">
-  <p>&copy; 2024 Leonard Nkholise</p>
+  <p>&copy; 2025 Leonard Nkholise</p>
 </footer>
 </body>
 </html>
