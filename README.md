@@ -31,7 +31,6 @@ I am a dedicated full-stack Python developer and computational scientist focused
 ### Frameworks & Databases
 ![Django](https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-008080?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-FF4500?style=for-the-badge&logo=Flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -39,7 +38,6 @@ I am a dedicated full-stack Python developer and computational scientist focused
 ### Languages
 ![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-20B2AA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 ### Others
