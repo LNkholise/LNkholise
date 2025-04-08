@@ -15,18 +15,22 @@
     <h2>About Me: </h2>
     <p>
 
-### Hey there! I'm Leonard
+### Hi There 👋
 
-I am a dedicated full-stack Python developer and computational scientist focused on delivering innovative solutions in web development and data analytics to enhance business efficiency.
+I'm a full-stack Python web developer who specializes mostly in solving complex business and technical problems with innovative solutions.
 
 ### What I Do:
-- 🔍 Develop advanced web3-based applications and computer vision solutions using Python and Django to meet specific needs.
-- 🧪 Apply my background in computational physics to create data-driven insights and drive impactful research projects.
-- 💻 Transform concepts into functional applications through expert coding, ensuring quality and scalability.
 
-### My Commitment:
-- 🌟 Committed to continuous learning to leverage the latest technologies and methodologies.
-- 🚀 Focused on delivering tailored solutions that solve real-world challenges and drive measurable business results.
+- 🧑‍💻 **Web Development**: I create custom applications that improve business operations, using Python (Django, Flask) and React to deliver scalable and efficient systems.
+- 🌐 **Web3**: I build decentralized applications that tackle unique challenges using blockchain technology.
+- ⚙️ **Problem-Solving**: My core strength lies in identifying problems and designing solutions that drive efficiency, scalability, and growth.
+
+### My Approach:
+
+- 🔍 **Focus on Solutions**: I dive deep into challenges, ensuring I understand the problem before crafting the most effective solution.
+- 🚀 **Continuous Learning**: I stay on top of emerging technologies to solve problems in the most innovative ways possible.
+- 🏗️ **Optimizing Results**: My goal is to ensure every line of code adds value, streamlining workflows and eliminating inefficiencies.
+
   
 ### Frameworks & Databases
 ![Django](https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django&logoColor=white)
