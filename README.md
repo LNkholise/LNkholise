@@ -82,7 +82,6 @@ I'm a full-stack Python web developer who specializes mostly in solving complex 
     <h2>Contact Information</h2>
     <ul>
       <li>Email: www.leonkholise@gmail.com</li>
-      <li>LinkedIn: <a href="www.linkedin.com/in/lekoro-leonard-nkholise">www.linkedin.com/in/lekoro-leonard-nkholise</a></li>
     </ul>
   </div>
 </section>
