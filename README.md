@@ -15,23 +15,25 @@
     <h2>About Me: </h2>
     <p>
 
-### Hi There 👋
+# Hi, I'm Leonard 
 
-I'm a full-stack Python web developer who specializes mostly in solving complex business and technical problems with innovative solutions. My background is in computational physics (think astrophysics and astronomy) which taught me how to tackle challenging problems with data. I gravitated toward web development because it’s a powerful tool for solving real-world issues at scale. Plus, it doesn’t hurt that it pays pretty well! Now, I blend that problem-solving mindset with web technologies like Python (Django, Flask), Node.js and tensorflow to build solutions that actually make a difference for businesses.
+I'm a full-stack Python developer with a background in computational astrophysics. My work sits at the intersection of data-heavy problem-solving and practical software engineering, whether that's designing efficient APIs, optimizing data pipelines, or implementing machine learning models that actually work in production.
 
-### What I Do:
+## What I Bring
 
-- 🧑‍💻 **Web Development**: I create custom applications that improve business operations, using Python (Django, Flask) and React to deliver scalable and efficient systems.
-- 🌐 **Web3**: I build decentralized applications that tackle unique challenges using blockchain technology.
-- ⚙️ **Problem-Solving**: My core strength lies in identifying problems and designing solutions that drive efficiency, scalability, and growth.
+- 🔍 **A scientist's rigor** for dissecting complex problems
+- 🏗️ **An engineer's discipline** for building maintainable, scalable solutions
+- 🛠️ **A pragmatic approach**—I care about solving real problems, not just writing clever code
 
-### My Approach:
+## Experience Highlights :
 
-- 🔍 **Focus on Solutions**: I dive deep into challenges, ensuring I understand the problem before crafting the most effective solution.
-- 🚀 **Continuous Learning**: I stay on top of emerging technologies to solve problems in the most innovative ways possible.
-- 🏗️ **Optimizing Results**: My goal is to ensure every line of code adds value, streamlining workflows and eliminating inefficiencies.
+I've worked with companies like Luxcorp to:
+- Streamline backend systems
+- Reduce processing times
+- Optimize cloud costs
+- Solve performance bottlenecks
 
-  
+## Tech Stack:
 ### Frameworks & Databases
 ![Django](https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-008080?style=for-the-badge&logo=react&logoColor=61DAFB)
