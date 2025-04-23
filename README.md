@@ -19,7 +19,7 @@
 
 I'm a full-stack Python developer with a background in computational astrophysics. My work sits at the intersection of data-heavy problem-solving and practical software engineering, whether that's designing efficient APIs, optimizing data pipelines, or implementing machine learning models that actually work in production.
 
-## What I Bring
+## What I Bring :
 
 - 🔍 **A scientist's rigor** for dissecting complex problems
 - 🏗️ **An engineer's discipline** for building maintainable, scalable solutions
@@ -33,7 +33,7 @@ I've worked with companies like Luxcorp to:
 - Optimize cloud costs
 - Solve performance bottlenecks
 
-## Tech Stack:
+## Tech Stack :
 ### Frameworks & Databases
 ![Django](https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-008080?style=for-the-badge&logo=react&logoColor=61DAFB)
