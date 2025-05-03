@@ -23,7 +23,7 @@ I'm a full-stack Python developer with a background in computational astrophysic
 
 - 🔍 **A scientist's rigor** for dissecting complex problems
 - 🏗️ **An engineer's discipline** for building maintainable, scalable solutions
-- 🛠️ **A pragmatic approach**—I care about solving real problems, not just writing clever code
+- 🛠️ **A pragmatic approach** I care about solving real problems, not just writing clever code
 
 ## Experience Highlights :
 
