@@ -12,18 +12,18 @@
 <!-- Profile Summary -->
 <section class="profile-section">
   <div class="container">
-    <h2>About Me: </h2>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnajJoYTFycGU3Y253Z2k3eTA0MTgyY3hjcmtxdTdpbnVhaDBnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5XnfRp2sTnw1qYdLUV/giphy.gif" width="1200" />
     <p>
 
-# Hi, I'm Leonard 
+# Hi, I'm Leonard 👋🏾
 
 I'm a full-stack Python developer with a background in computational astrophysics. My work sits at the intersection of data-heavy problem-solving and practical software engineering, whether that's designing efficient APIs, optimizing data pipelines, or implementing machine learning models that actually work in production.
 
 ## What I Bring :
 
-- 🔍 **A scientist's rigor** for dissecting complex problems
-- 🏗️ **An engineer's discipline** for building maintainable, scalable solutions
-- 🛠️ **A pragmatic approach** I care about solving real problems, not just writing clever code
+- **A scientist's rigor** for dissecting complex problems
+- **An engineer's discipline** for building maintainable, scalable solutions
+- **A pragmatic approach** I care about solving real problems, not just writing clever code
 
 ## Experience Highlights :
 
