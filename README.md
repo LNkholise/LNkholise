@@ -27,7 +27,7 @@ I'm a full-stack Python developer with a background in computational astrophysic
 
 ## Experience Highlights :
 
-I've worked with companies like Luxcorp to:
+I've worked with companies to:
 - Streamline backend systems
 - Reduce processing times
 - Optimize cloud costs
